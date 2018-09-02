@@ -16,7 +16,7 @@
               >
                 <v-icon large>code</v-icon>
               </v-btn>
-              <span>Source</span>
+              <span>Source Test</span>
             </v-tooltip>
           </v-flex>
         </v-layout>
